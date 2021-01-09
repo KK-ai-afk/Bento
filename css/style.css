@@ -21,7 +21,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  --imgbg: url(https://github.com/KK-ai-afk/Bento/blob/master/img/Nebulosa.jpg); 
+  --imgbg: url(https://raw.githubusercontent.com/KK-ai-afk/Bento/master/img/Nebulosa.jpg); 
   /* --imgcol: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)); /* Filter color */
 }
 
