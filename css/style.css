@@ -36,7 +36,7 @@
 /* Dark theme  */
 .darktheme {
   --accent: #186efd60; /* Hover color */
-  --imgbg: url(/img/Nebulosa.jpg);       /* Background color */
+  --bg: #1e1f21;;       /* Background color */
   --sbg: #2c2d31;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
   --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));    /* Filter color */
