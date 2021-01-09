@@ -55,7 +55,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-color: var(--bg);
-  background-image: var(--imgcol), var(--imgbg);
+   background-image: url("/img/Nebulosa.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
