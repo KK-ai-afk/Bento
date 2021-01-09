@@ -21,7 +21,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  --imgbg: url(master/img/Nebulosa.jpg); 
+  --imgbg: url(/img/Nebulosa.jpg); 
   /* --imgcol: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)); /* Filter color */
 }
 
@@ -36,7 +36,7 @@
 /* Dark theme  */
 .darktheme {
   --accent: #186efd60; /* Hover color */
-  --imgbg :url (master/img/Nebulosa.jpg);       /* Background color */
+  --imgbg :url (/img/Nebulosa.jpg);       /* Background color */
   --sbg: #2c2d31;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
   --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));    /* Filter color */
