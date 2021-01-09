@@ -36,7 +36,7 @@
 /* Dark theme  */
 .darktheme {
   --accent: #186efd60; /* Hover color */
-  --bg: #1e1f21;       /* Background color */
+  --imgbg:url (https://github.com/KK-ai-afk/Bento/blob/master/img/Nebulosa.jpg);       /* Background color */
   --sbg: #2c2d31;      /* Cards color */
   --fg: #d8dee9;       /* Foreground color */
   --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));    /* Filter color */
